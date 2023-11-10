@@ -1,0 +1,72 @@
+
+table {
+    background-color: white;
+    table-layout: fixed;
+    width: 100%;
+    border-spacing: 10px;
+  }
+  tbody {
+    border-radius: 2px;
+  }
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  input::placeholder {
+    font-weight: bold;
+    opacity: 0.5;
+  }
+
+  .search{
+    margin-top: 20px;
+    width: 70%;
+    height: 30px;
+  }
+  .dossier{
+    margin: 20px;
+  }
+  .tableau{    
+    margin-top: 30px;
+    border: 20px;
+  }
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  body {
+background-color: black;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 10%;
+  }
+  
+  html {
+    font-family: "helvetica neue", helvetica, arial, sans-serif;
+  }
+
+  
+  thead th,
+  tfoot th {
+    font-family: "Rock Salt", cursive;
+  }
+  
+  th {
+    letter-spacing: 0px;
+  }
+  
+  td {
+    letter-spacing: 0px;
+    background-color: rgb(253, 250, 250);
+  }
+  
+  tbody td {
+    text-align: center;
+  }
+    
+  
+
+
+  
